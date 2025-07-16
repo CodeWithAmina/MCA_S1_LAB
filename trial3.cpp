@@ -1,6 +1,8 @@
 #include<stdio.h>
-int a=5;
+int a=5,b=1,sum;
+sum=a+b;
 int main()
 {
-	printf("value of a is",a);
+	printf("sum is",sum);
+	
 }
